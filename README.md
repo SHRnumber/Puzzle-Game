@@ -5,7 +5,11 @@ An interactive drag-and-drop puzzle game where players arrange scrambled image p
 
 ![Drag and Drop Puzzle Game]<img width="1364" height="601" alt="Screenshot 2026-02-17 191915" src="https://github.com/user-attachments/assets/efe1b6e1-67b2-4762-8799-89671f898e16" />
 
+## 🌐 Live Demo
 
+**[Play the game online!](https://glowing-longma-bf95ec.netlify.app/)**
+
+Try it now - no installation required!
 
 ## 🎮 Features
 
