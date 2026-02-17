@@ -3,7 +3,8 @@
 
 An interactive drag-and-drop puzzle game where players arrange scrambled image pieces to complete the picture. Features automatic reset after completion with visual feedback!
 
-![Drag and Drop Puzzle Game](Screenshot%202026-02-17%20191915.png)
+![Drag and Drop Puzzle Game]![Uploading Screenshot 2026-02-17 191915.png…]()
+
 
 ## 🎮 Features
 
