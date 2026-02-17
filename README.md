@@ -3,7 +3,8 @@
 
 An interactive drag-and-drop puzzle game where players arrange scrambled image pieces to complete the picture. Features automatic reset after completion with visual feedback!
 
-![Drag and Drop Puzzle Game]![Uploading Screenshot 2026-02-17 191915.png…]()
+![Drag and Drop Puzzle Game]<img width="1364" height="601" alt="Screenshot 2026-02-17 191915" src="https://github.com/user-attachments/assets/efe1b6e1-67b2-4762-8799-89671f898e16" />
+
 
 
 ## 🎮 Features
@@ -69,7 +70,7 @@ An interactive drag-and-drop puzzle game where players arrange scrambled image p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SHRnumber/drag-drop-puzzle.git
+git clone [https://github.com/SHRnumber/drag-drop-puzzle.git](https://github.com/SHRnumber/Puzzle-Game/tree/main)
 ```
 
 2. Add your puzzle images to the project folder:
