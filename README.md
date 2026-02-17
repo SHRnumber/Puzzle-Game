@@ -70,7 +70,7 @@ An interactive drag-and-drop puzzle game where players arrange scrambled image p
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/SHRnumber/drag-drop-puzzle.git](https://github.com/SHRnumber/Puzzle-Game/tree/main)
+git clone https://github.com/SHRnumber/Puzzle-Game
 ```
 
 2. Add your puzzle images to the project folder:
