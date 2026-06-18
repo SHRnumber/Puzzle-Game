@@ -1,17 +1,19 @@
 
-# 🧩 Drag and Drop Puzzle Game
+🧩 Drag and Drop Puzzle Game
 
 An interactive drag-and-drop puzzle game where players arrange scrambled image pieces to complete the picture. Features automatic reset after completion with visual feedback!
 
 ![Drag and Drop Puzzle Game]<img width="1364" height="601" alt="Screenshot 2026-02-17 191915" src="https://github.com/user-attachments/assets/efe1b6e1-67b2-4762-8799-89671f898e16" />
 
-## 🌐 Live Demo
+
+🌐 Live Demo
 
 **[Play the game online!](https://glowing-longma-bf95ec.netlify.app/)**
 
 Try it now - no installation required!
 
-## 🎮 Features
+
+🎮 Features
 
 - **Drag and Drop Mechanics**: Intuitive drag-and-drop interface for moving puzzle pieces
 - **3x3 Puzzle Grid**: Nine pieces that form a complete image when arranged correctly
@@ -25,12 +27,14 @@ Try it now - no installation required!
   - Glowing effect on completed puzzle
   - Dragging animations
   - Success message on completion
-
-## 🖼️ Screenshot
+ 
+  
+🖼️ Screenshot
 
 *Puzzle complete state with countdown timer and success message*
 
-## 🚀 How to Play
+
+🚀 How to Play
 
 1. **Drag** any piece from the left side
 2. **Drop** it into an empty slot on the right grid
@@ -38,13 +42,15 @@ Try it now - no installation required!
 4. Watch the **5-second countdown** begin automatically
 5. Puzzle **resets** automatically, ready for another round!
 
-## 🛠️ Technologies Used
+
+🛠️ Technologies Used
 
 - HTML5
 - CSS3 (Grid, Flexbox, Animations)
 - JavaScript (Drag and Drop API)
 
-## 📁 File Structure
+
+📁 File Structure
 
 ```
 📦 drag-drop-puzzle
@@ -62,7 +68,8 @@ Try it now - no installation required!
 └── 📝 README.md
 ```
 
-## 🎯 Game States
+
+🎯 Game States
 
 | State | Description | Visual Indicator |
 |-------|-------------|------------------|
@@ -70,12 +77,10 @@ Try it now - no installation required!
 | Complete | All pieces placed | "Puzzle Complete!" message + glowing borders |
 | Resetting | 5-second countdown | Timer display counting down |
 
-## 🔧 Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/SHRnumber/Puzzle-Game
-```
+🔧 Installation
+
+1. Clone the repository.
 
 2. Add your puzzle images to the project folder:
    - `background.jpg` - Background image
@@ -83,17 +88,20 @@ git clone https://github.com/SHRnumber/Puzzle-Game
 
 3. Open `index.html` in your browser
 
-## 📝 Requirements
+ 
+ 📝 Requirements
 
 - Modern web browser with JavaScript enabled
 - 9 puzzle piece images (named as per the file structure)
 - Background image (optional)
 
-## 🤝 Contributing
+
+🤝 Contributing
 
 Feel free to fork this project and customize it with your own images or features!
 
-## 📄 License
+
+📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
